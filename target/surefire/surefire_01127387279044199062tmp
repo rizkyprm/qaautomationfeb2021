@@ -1,0 +1,7 @@
+#surefire_0
+#Wed Mar 24 16:05:03 ICT 2021
+environment=prod
+user.dir=C\:\\Users\\SITI\\eclipse-workspace\\fullstack-automation
+suiteXmlFile=apitests.xml
+localRepository=C\:\\Users\\SITI\\.m2\\repository
+basedir=C\:\\Users\\SITI\\eclipse-workspace\\fullstack-automation
